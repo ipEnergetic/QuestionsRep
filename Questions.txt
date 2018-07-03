@@ -1,5 +1,96 @@
-1. Что такое JSPX и чем он отличается от JSP?
+1. Почему в main нельзя просто вывести переменные класса (потому что он статический метод?)
+и почему через создание объекта класса можно?
 
-2. Еще раз про MVC (желательно на примерах из Oracle ADF)?
+2. Что такое Bean - компонент
 
-3. Java Beans?
+3 Что такое JSPX и чем он отличается от JSP (почему мы претаскиваем на faces-conig.xml jsp-файл, а 
+затем переименовываем в jspx, а потом на базе jspx создаем jsf)?
+
+4. Что такое JSF-файл?
+
+5 Почему при создании JSF-файла есть Facelets и JSP XML)
+
+6. Что такое Facelets?
+
+7. Еще раз про MVC (желательно на примерах из Oracle ADF)?
+
+8. Рассмотреть ADF
+
+9. Обсудить создание базы данных
+
+10. Обсудить создание Buisness Service (для чего он нужен, как увязываются бизнес компоненты,
+обсудить entity)
+
+11. Создание JSF-страницы
+
+12. Как мы добавляем и увязываем элементы из базы данных в таблицу
+
+13. На примере empoyees.xml разобрать занесение свойств xml
+
+14. Ошибка при внесении adf.currentDate (500 ошибка сервера)
+
+15. Почему страница jsf на русском языке?
+
+16. Ошибка при создании круговой диаграммы (The 'shortDesc' attribute should be set and non-empty)
+на следующей день просто заработала!!!
+
+17. Entity Object (Обсудить что это)
+
+18. Почему для поиска вторая страинца сохдается в поле adfc-config, а не в faces-config.xml
+
+19. Зачем нужны кнопки Commit и Rollback
+
+                              CREATE APPLICATION HR_EJB_JPA
+							  
+20. Что такое EJB (Enterprise java bean)
+
+21. Что такое JPA (Java Persistnce API разобрать на примере Hibernate)
+
+22. Про аннотации в контексте объявления имени java bean поговрить
+
+23. Работаем ли мы по программированию с сущностями?
+
+24. Persistnce model?
+
+25. Схема работы приложения совместно с базой данных
+
+26. Что такое Session Bean?
+
+27. Stateful и Stateless Bean Session, что это такое и в чем отличаи
+
+28. Что такое файлы .jws,.jpr и .jpx в jdeveloper/adf?
+
+http://qaru.site/questions/616622/what-is-jws-jpr-and-jpx-files-in-jdeveloperadf
+
+29. Oracle ADF (Application Development Framework)
+
+https://habr.com/post/172123/
+
+30. Oracle ADF. Business Components
+
+https://habr.com/post/173059/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
